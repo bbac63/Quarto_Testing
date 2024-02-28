@@ -1,0 +1,17 @@
+---
+title: "Listing Example"
+listing:
+  id: sample-listings
+  contents:
+    - posts
+    - archived-items.yaml
+  sort: "date desc"
+  type: table
+---
+
+You can review the following documents for additional information:
+
+::: {#sample-listings}
+:::
+
+## Learn more about Quarto [here](https://www.quarto.com).
